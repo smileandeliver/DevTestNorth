@@ -1,8 +1,9 @@
 # DevTestNorth
-Repo for DevTestNorth slides including discount codes:
+Repo for DevTestNorth slides including discount code:
 
-## Discount Codes
-https://github.com/smileandeliver/
-http://teamguidesforsoftware.com 
+## Discount Code
+Here is a code to get 20% discount on the Team Guide to Operability 
 https://leanpub.com/SoftwareOperability/c/DevTestNorth20 
 
+## LeanPub Bundle
+http://teamguidesforsoftware.com 
